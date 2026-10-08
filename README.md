@@ -2,10 +2,18 @@
 
 I'm a first year Data Science student at The University of Vermont interested in data analytics and AI processing for real world applications.
 
-Projects:
-Currently working on a project in python about Fantasy Football Analyzation
+## What I do
+I enjoy working on:
+- Problem solving
+- Learning different technologies
 
-Connect:
-LinkedIn: https://www.linkedin.com/in/timothy-dwight-2a485538a/?isSelfProfile=true
+## Tools I use
+- Python
 
-Email: timdwight2008@gmail.com
+## Projects:
+- [Fantasy Football Analyzer] (Currently working on this project)
+
+## Connect:
+- https://github.com/tdwight123
+- LinkedIn: https://www.linkedin.com/in/timothy-dwight-2a485538a/?isSelfProfile=true
+- Email: timothy.dwigh@uvm.edu
