@@ -11,7 +11,7 @@ I enjoy working on:
 - Python
 
 ## Projects:
-- [Fantasy Football Analyzer] (Currently working on this project)
+- Fantasy Football Analyzer (Currently working on this project)
 
 ## Connect:
 - https://github.com/tdwight123
