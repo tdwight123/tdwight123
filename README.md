@@ -14,6 +14,6 @@ I enjoy working on:
 - Fantasy Football Analyzer (Currently working on this project)
 
 ## Connect:
-- https://github.com/tdwight123
+- Github: https://github.com/tdwight123
 - LinkedIn: https://www.linkedin.com/in/timothy-dwight-2a485538a/?isSelfProfile=true
-- Email: timothy.dwigh@uvm.edu
+- Email: timothy.dwight@uvm.edu
